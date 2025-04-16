@@ -44,12 +44,8 @@ Feel free to explore my projects or raise an issue! Email me with inquiries.</p>
 
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trevsh&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trevsh&theme=tokyonight&no-frame=true&row=2&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 
-
-<p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 <br>
 
 <br/>
