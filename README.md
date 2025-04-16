@@ -43,7 +43,7 @@ I'm a Full-Stack Web Developer and Embedded Systems Engineer passionate about bu
 Feel free to explore my projects or raise an issue! Email me with inquiries.</p>
 
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trevsh&theme=dracula" alt="bc-expert"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trevsh&theme=dracula&row=1" alt="bc-expert"/></a> </p>
 <br/>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me on Linkedin 🤝 </h3>
