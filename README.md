@@ -15,9 +15,9 @@
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=trevsh&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevsh&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
-<br/>
-<h2>👋 Hey, I'm Tre!</h2>
-<br/>
+<br><br/>
+<h1>👋 Hey, I'm Tre!</h1>
+<br><br/>
 
 <p>
 I'm a Full-Stack Web Developer and Embedded Systems Engineer passionate about building powerful digital tools that solve real-world problems. My experience spans both frontend and backend development with a focus on responsive and performant applications.
