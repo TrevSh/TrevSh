@@ -4,8 +4,11 @@
 <img height="150" />
 <p>
 <br></br>
-<span>Im the founder of every project you can find on this page. Even the unfinished ones.</span>
+<div>
+<p>Im the founder of every project you can find on this page. Even the unfinished ones.</p>
+</div>
 </p>
+
 
 <h2>💻 Tech Stack</h2>
 <ul>
