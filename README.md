@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Web Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> El desarrolladora</h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=trevsh&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevsh&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
