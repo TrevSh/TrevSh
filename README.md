@@ -1,7 +1,9 @@
 <h1 align="center"> El desarrolladora</h1>
+<div>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=trevsh&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevsh&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
+</div>
 <p>
 <br></br>
 <div>
