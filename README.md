@@ -3,8 +3,8 @@
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevsh&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
 <p>
-
-<span>Im the literal founder of every project you can find on this page. Even the unfinished ones.</span>
+<br></br>
+<span>Im the founder of every project you can find on this page. Even the unfinished ones.</span>
 </p>
 
 <h2>💻 Tech Stack</h2>
