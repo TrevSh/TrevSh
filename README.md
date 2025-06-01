@@ -10,11 +10,6 @@ Im the literal founder of every project you can find on this page. Even the unfi
 <ul>
   Honestly cant even keep up anymore. Alot of JS and Python frameworks. 
 </ul>
-<hr />
-<p><strong>📫 Let’s connect!</strong><br>
-Feel free to explore my projects or raise an issue! Email me with inquiries.</p>
-
-<br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trevsh&theme=dracula&row=1" alt="bc-expert"/></a> </p>
 <br/>
 <br/>
