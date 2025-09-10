@@ -10,11 +10,5 @@
 <p>Im the founder of every project you can find on this page. Even the unfinished ones.</p>
 </div>
 </p>
-
-
-<h2>💻 Tech Stack</h2>
-<ul>
-  Honestly cant even keep up anymore. Alot of JS and Python frameworks. 
-</ul>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trevsh&theme=dracula&row=1" alt="bc-expert"/></a> </p>
 </p>
