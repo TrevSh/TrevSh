@@ -16,4 +16,4 @@ I'm a full-stack engineer in Austin, TX. I build web apps from the database to t
 TypeScript · JavaScript · React · Next.js · Node.js · tRPC · Prisma · PostgreSQL · Stripe · Sanity · Tailwind · Playwright · Python · C/C++ · Godot
 
 ### Elsewhere
-[trevsh.com](https://trevsh.com) · trevonshelby@outlook.com
+[trevsh.com](https://trevsh.com) · [LinkedIn](https://www.linkedin.com/in/trevonshelby/) · trevonshelby@outlook.com
